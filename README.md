@@ -11,7 +11,7 @@ Bovine tuberculosis (bTB), caused by *Mycobacterium bovis*, remains one of the m
 
 This repository contains the full analytical and simulation pipeline underpinning my PhD research into **why bTB breakdowns are not all the same**  and what that heterogeneity means for disease control.
 
-The core contribution of this work is the discovery, through unsupervised machine learning applied to over **2.8 million surveillance observations**, that Irish cattle herds experience bTB through three fundamentally distinct outbreak phenotypes. These phenotypes  self-limiting, chronically recurrent, and acutely explosive — reflect qualitatively different transmission mechanisms, and demand qualitatively different intervention responses.
+The core contribution of this work is the discovery, through unsupervised machine learning applied to over **2.8 million surveillance observations**, that Irish cattle herds experience bTB through three fundamentally distinct outbreak phenotypes. These phenotypes  self-limiting, chronically recurrent, and acutely explosive  reflect qualitatively different transmission mechanisms, and demand qualitatively different intervention responses.
 
 This repository provides:
 - The complete **data processing and feature engineering pipeline**

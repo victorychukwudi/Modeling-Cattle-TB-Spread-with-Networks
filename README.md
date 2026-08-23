@@ -19,7 +19,7 @@ This repository provides:
 - **Network-based transmission modelling** incorporating trade movement and neighbourhood structure
 - **Stochastic metapopulation simulation** via continuous-time Markov chains (CTMC)
 - **Multinomial regression** and **survival analysis** for cluster risk factor characterisation
-- The mathematical foundation for **cluster-recovery validation** — asking whether stochastic simulations can reproduce machine-learning-discovered structure from first principles
+- The mathematical foundation for **cluster-recovery validation** asking whether stochastic simulations can reproduce machine-learning-discovered structure from first principles
 
 ---
 

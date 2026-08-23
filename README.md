@@ -122,11 +122,11 @@ $$\Delta I_{Kj}(t) \sim \mathrm{Binomial}\!\left(S_j(t),\; p_K \cdot p_{\text{in
 
 ## Key Findings
 
-**Neighbourhood infection pressure dominates.** Each additional new-breakdown neighbour was associated with a **37–47% increase in the odds** of belonging to a breakdown phenotype relative to control herds — substantially larger than the effect of direct trade-mediated exposure from infected source herds.
+**Neighbourhood infection pressure dominates.** Each additional new-breakdown neighbour was associated with a **37–47% increase in the odds** of belonging to a breakdown phenotype relative to control herds substantially larger than the effect of direct trade-mediated exposure from infected source herds.
 
 **Three phenotypes are stable and reproducible.** Bootstrap resampling across 200 iterations produced mean Jaccard coefficients of **0.996, 0.998, and 0.982** for Clusters 1, 2, and 3 respectively, with zero dissolution events. Split-sample validation across five 70/30 partitions produced a mean ARI of **0.999**.
 
-**Cluster 2 recurs at twice the rate of Cluster 1.** Cox proportional hazards modelling confirmed HR = 2.370 (95% CI: 2.177–2.580) for subsequent breakdown after full adjustment — and this excess risk persists even after controlling for prior breakdown history, pointing to unmeasured persistent environmental or wildlife exposure.
+**Cluster 2 recurs at twice the rate of Cluster 1.** Cox proportional hazards modelling confirmed HR = 2.370 (95% CI: 2.177–2.580) for subsequent breakdown after full adjustment and this excess risk persists even after controlling for prior breakdown history, pointing to unmeasured persistent environmental or wildlife exposure.
 
 **Cluster 3 takes twice as long to clear.** Mean breakdown duration of 333 days versus 149 days for Cluster 1, with a Cox HR of 0.114 for clearance rate — reflecting the sustained within-herd amplification that characterises the acute high-intensity phenotype.
 
